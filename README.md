@@ -39,8 +39,8 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](nameOfThumbnail.png)](https://www.youtube.com/watch?v=h3knEnb7mJM)
 
 ## Description
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+In this project we used a large data set of dogs and when the user clicks start, it will give them a randomly generated dog. When the dog is chosen, it will also provide the user with all their information such as their minimum and maximum life span, what they are bred for, their breed group, their minimum and maximum height, and finally their temperment. It will also play sounds when the user starts the program and when the dog is generated.
